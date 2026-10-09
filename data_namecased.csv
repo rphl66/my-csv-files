@@ -17,7 +17,7 @@ YEARS;MONTH;NAME;LINK;start_date;end_date;archive_status
 1972;June;Expo 1972;https://www.raphaelleonardlevy.com/jeansellem/expo-1972;;;complete
 1972;July;Vera Myhre;https://www.raphaelleonardlevy.com/jeansellem/vera-myhre;;;complete
 1972;July;Indira Johnson;https://www.raphaelleonardlevy.com/jeansellem/indira-johnson;;;complete
-1972;August;Paul-Armand Gette;https://www.raphaelleonardlevy.com/jeansellem/paul-armand-gette-1972;;
+1972;August;Paul-Armand Gette;https://www.raphaelleonardlevy.com/jeansellem/paul-armand-gette-1972;;;complete
 1972;September;Josef Simon;https://www.raphaelleonardlevy.com/jeansellem/josef-simon;;;complete
 1972;September;Knud Holar;https://www.raphaelleonardlevy.com/jeansellem/knud-holar;;;complete
 1972;November;Alf Lindgren;https://www.raphaelleonardlevy.com/jeansellem/alf-lindgren;;;complete
@@ -28,7 +28,7 @@ YEARS;MONTH;NAME;LINK;start_date;end_date;archive_status
 1973;January;Mats Hansén;https://www.raphaelleonardlevy.com/jeansellem/mats-hansen;;;complete
 1973;January;Lothar Fischer;https://www.raphaelleonardlevy.com/jeansellem/lothar-fischer;;;complete
 1973;March;Poul Skelbye;https://www.raphaelleonardlevy.com/jeansellem/poul-skelbye;;;complete
-1973;March;New Eter;https://www.raphaelleonardlevy.com/jeansellem/new-eter;;
+1973;March;New Eter;https://www.raphaelleonardlevy.com/jeansellem/new-eter;;;complete
 1973;April;Konrad Balder Schäuffelen;https://www.raphaelleonardlevy.com/jeansellem/konrad-balder-schauffelen;;;complete
 1973;April;Arne Schmitz;https://www.raphaelleonardlevy.com/jeansellem/arne-schmitz;;;complete
 1973;May;Jerzy Grabowski;https://www.raphaelleonardlevy.com/jeansellem/jerzy-grabowski;;;complete
@@ -60,7 +60,7 @@ YEARS;MONTH;NAME;LINK;start_date;end_date;archive_status
 1974;June;Joel Glassman;https://www.raphaelleonardlevy.com/jeansellem/joel-glassman;;
 1974;June;Erik Hagens;https://www.raphaelleonardlevy.com/jeansellem/erik-hagens;;;complete
 1974;August;Paul Armand Gette;https://www.raphaelleonardlevy.com/jeansellem/paul-armand-gette-1974;;;complete
-1974;September;Dick Higgins;https://www.raphaelleonardlevy.com/jeansellem/dick-higgins;;
+1974;September;Dick Higgins;https://www.raphaelleonardlevy.com/jeansellem/dick-higgins;;;complete
 1974;September;Christian Boltanski;https://www.raphaelleonardlevy.com/jeansellem/christian-boltanski;;;complete
 1974;September;Bertil Falk;https://www.raphaelleonardlevy.com/jeansellem/bertil-falk;;;complete
 1974;October;Carsten Regild;https://www.raphaelleonardlevy.com/jeansellem/carsten-regild;;
@@ -78,7 +78,7 @@ YEARS;MONTH;NAME;LINK;start_date;end_date;archive_status
 1975;February;Henrik Have;https://www.raphaelleonardlevy.com/jeansellem/henrik-have-1975;;;complete
 1975;February;Jørgen Nash;https://www.raphaelleonardlevy.com/jeansellem/joergen-nash;;
 1975;March;Hervé Fischer;https://www.raphaelleonardlevy.com/jeansellem/herve-fischer;;
-1975;March;Messager & Boltanski & Gette & Le Gac;https://www.raphaelleonardlevy.com/jeansellem/messager-boltanski-gette-le-gac;;
+1975;March;Messager & Boltanski & Gette & Le Gac;https://www.raphaelleonardlevy.com/jeansellem/messager-boltanski-gette-le-gac;;;complete
 1975;March;Multi-Media Aktionsteater;https://www.raphaelleonardlevy.com/jeansellem/multi-media-aktionsteater;;
 1975;March;Phil Berkman;https://www.raphaelleonardlevy.com/jeansellem/phil-berkman;;
 1975;April;Eric Andersen;https://www.raphaelleonardlevy.com/jeansellem/eric-andersen;;
@@ -94,7 +94,7 @@ YEARS;MONTH;NAME;LINK;start_date;end_date;archive_status
 1975;August;Keiji Uematsu;https://www.raphaelleonardlevy.com/jeansellem/keiji-uematsu;;
 1975;August;Bjørn Nørgaard;https://www.raphaelleonardlevy.com/jeansellem/bjorn-norgaard;;
 1975;August;Ken Friedman;https://www.raphaelleonardlevy.com/jeansellem/ken-friedman;;
-1975;August;Ubbeboda Center Symposium;https://www.raphaelleonardlevy.com/jeansellem/ubbeboda-center-symposium;;
+1975;August;Ubbeboda Center Symposium;https://www.raphaelleonardlevy.com/jeansellem/ubbeboda-center-symposium;;;complete
 1975;September;Cayc;https://www.raphaelleonardlevy.com/jeansellem/cayc;;
 1975;September;Reindeer Werk;https://www.raphaelleonardlevy.com/jeansellem/reindeer-werk;;
 1975;September;Carsten Regild & Rolf Börjlind;https://www.raphaelleonardlevy.com/jeansellem/carsten-regild-rolf-borjlind;;
@@ -153,7 +153,7 @@ YEARS;MONTH;NAME;LINK;start_date;end_date;archive_status
 1978;March;Roberto Altmann;https://www.raphaelleonardlevy.com/jeansellem/roberto-altmann;;
 1978;March;Phil Berkman & John Dedomenico & Carl Johnson & John Spray;https://www.raphaelleonardlevy.com/jeansellem/phil-berkman-john-dedomenico-carl-johnson-john-spray;;
 1978;March;Joëlle Dautricourt;https://www.raphaelleonardlevy.com/jeansellem/joelle-dautricourt;;
-1978;April;Jean Roualdès;https://www.raphaelleonardlevy.com/jeansellem/jean-roualdes-1978;;
+1978;April;Jean Roualdès;https://www.raphaelleonardlevy.com/jeansellem/jean-roualdes-1978;;;complete
 1978;April;Yoshio Nakajima;https://www.raphaelleonardlevy.com/jeansellem/yoshio-nakajima;;
 1978;May;Neon de Suro;https://www.raphaelleonardlevy.com/jeansellem/neon-de-suro;;
 1978;May;Jens Jørgen Thorsen;https://www.raphaelleonardlevy.com/jeansellem/jens-jorgen-thorsen;;
